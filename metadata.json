@@ -1,0 +1,5 @@
+{
+  "name": "Project Metamorphosis: SL Interpreter",
+  "description": "An interactive dashboard for the Syntropic Language (SL) Interpreter, a conceptual runtime for an externalized cognitive architecture. Analyze text, calculate syntropy coefficients, and track session context in a futuristic interface powered by Gemini.",
+  "requestFramePermissions": []
+}
